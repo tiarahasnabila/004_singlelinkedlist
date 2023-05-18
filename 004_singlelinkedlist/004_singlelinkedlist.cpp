@@ -6,5 +6,4 @@ struct Node {
 	string name;
 	Node* next;
 };
-
-Node 
+Node* START = NULL;
